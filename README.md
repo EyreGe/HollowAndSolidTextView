@@ -1,3 +1,3 @@
 # HollowAndSolidTextView
 
-![Alt text](https://github.com/EyreGe/HollowAndSolidTextView/raw/master/drawable/xiaoguotu.png)  
+![Alt text](https://github.com/EyreGe/DynamicTextBorderColor/raw/master/drawable/xiaoguotu.png)  
