@@ -4,4 +4,4 @@
 
 动态设置有背景色圆角textView 
 
-<img src="https://github.com/EyreGe/HollowAndSolidTextView/blob/master/app/src/main/res/drawable/xiaoguotu.png" width="300" height="500" alt="效果图"/>
+<img src="https://github.com/EyreGe/HollowAndSolidTextView/blob/master/app/src/main/res/drawable/xiaoguotu.png" width="300" height="550" alt="效果图"/>
